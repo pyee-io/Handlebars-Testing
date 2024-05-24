@@ -1,0 +1,6 @@
+{
+  "image": "https://images.squarespace-cdn.com/content/v1/5e2c940c3de3f756cfd772a4/1579980628203-DK19QV4M6UKS4I26FEVH/logo-cropped.png?format=1500w",
+  "title": "Title Text here",
+  "body": "this is the body",
+  "list": ["item1", "item2", "last item"]
+}
